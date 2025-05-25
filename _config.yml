@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: ZebrAI-Lab Documentation
+description: Official Documentation of the ZebrAI-Lab Automation Tool
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://aizebra-lab.github.io/docs/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
